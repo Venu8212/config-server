@@ -1,7 +1,6 @@
 server:
   port: 5656
-  error:
-    path: ./logs/error
+
 
 eureka:
   client:
